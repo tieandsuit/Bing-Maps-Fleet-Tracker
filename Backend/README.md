@@ -10,7 +10,7 @@ The backend is divided into two main components:
 The sources of the Backend Services of Bing Maps Fleet Tracker are included in this repository. If you already downloaded the sources skip this step, otherwise clone the repository to a folder of your choosing and move to the `Backend/` folder.
 
 ``` Bash
-git clone https://github.com/Microsoft/Bing-Maps-Fleet-Tracker/
+git clone https://github.com/tieandsuit/Bing-Maps-Fleet-Tracker/
 cd Bing-Maps-Fleet-Tracker/Backend
 ```
 
